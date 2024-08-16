@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# temp files
+.*
+
+# output binary
+vsock_ping
