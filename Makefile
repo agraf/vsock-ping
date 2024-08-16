@@ -1,5 +1,5 @@
 # Compiler
-CC = gcc
+CC ?= gcc
 
 # Compiler flags
 CFLAGS = -Wall -Wextra -O2

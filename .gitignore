@@ -54,5 +54,6 @@ dkms.conf
 # temp files
 .*
 
-# output binary
+# outputs
 vsock_ping
+result
